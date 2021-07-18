@@ -1,0 +1,701 @@
+0
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 1
+Wins: 1 Losses: 0 Ties: 0
+1
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): 0
+Wins: 1 Losses: 0 Ties: 1
+2
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): 1
+Wins: 2 Losses: 0 Ties: 1
+3
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): -1
+Wins: 2 Losses: 1 Ties: 1
+4
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 1
+Wins: 3 Losses: 1 Ties: 1
+5
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): -1
+Wins: 3 Losses: 2 Ties: 1
+6
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 0
+Wins: 3 Losses: 2 Ties: 2
+7
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): -1
+Wins: 3 Losses: 3 Ties: 2
+8
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 0
+Wins: 3 Losses: 3 Ties: 3
+9
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 0
+Wins: 3 Losses: 3 Ties: 4
+10
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 1
+Wins: 4 Losses: 3 Ties: 4
+11
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): 1
+Wins: 5 Losses: 3 Ties: 4
+12
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 1
+Wins: 6 Losses: 3 Ties: 4
+13
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): 0
+Wins: 6 Losses: 3 Ties: 5
+14
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 0
+Wins: 6 Losses: 3 Ties: 6
+15
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 0
+Wins: 6 Losses: 3 Ties: 7
+16
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 1
+Wins: 7 Losses: 3 Ties: 7
+17
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): 1
+Wins: 8 Losses: 3 Ties: 7
+18
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): -1
+Wins: 8 Losses: 4 Ties: 7
+19
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): -1
+Wins: 8 Losses: 5 Ties: 7
+20
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 0
+Wins: 8 Losses: 5 Ties: 8
+21
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): -1
+Wins: 8 Losses: 6 Ties: 8
+22
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): -1
+Wins: 8 Losses: 7 Ties: 8
+23
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 0
+Wins: 8 Losses: 7 Ties: 9
+24
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 1
+Wins: 9 Losses: 7 Ties: 9
+25
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 1
+Wins: 10 Losses: 7 Ties: 9
+26
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): -1
+Wins: 10 Losses: 8 Ties: 9
+27
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 1
+Wins: 11 Losses: 8 Ties: 9
+28
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 0
+Wins: 11 Losses: 8 Ties: 10
+29
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): 1
+Wins: 12 Losses: 8 Ties: 10
+30
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): 0
+Wins: 12 Losses: 8 Ties: 11
+31
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 1
+Wins: 13 Losses: 8 Ties: 11
+32
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 0
+Wins: 13 Losses: 8 Ties: 12
+33
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 0
+Wins: 13 Losses: 8 Ties: 13
+34
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): -1
+Wins: 13 Losses: 9 Ties: 13
+35
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): -1
+Wins: 13 Losses: 10 Ties: 13
+36
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 1
+Wins: 14 Losses: 10 Ties: 13
+37
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 0
+Wins: 14 Losses: 10 Ties: 14
+38
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 0
+Wins: 14 Losses: 10 Ties: 15
+39
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): -1
+Wins: 14 Losses: 11 Ties: 15
+40
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 1
+Wins: 15 Losses: 11 Ties: 15
+41
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 1
+Wins: 16 Losses: 11 Ties: 15
+42
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 0
+Wins: 16 Losses: 11 Ties: 16
+43
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 0
+Wins: 16 Losses: 11 Ties: 17
+44
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 0
+Wins: 16 Losses: 11 Ties: 18
+45
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 1
+Wins: 17 Losses: 11 Ties: 18
+46
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 1
+Wins: 18 Losses: 11 Ties: 18
+47
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 0
+Wins: 18 Losses: 11 Ties: 19
+48
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 0
+Wins: 18 Losses: 11 Ties: 20
+49
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 0
+Wins: 18 Losses: 11 Ties: 21
+50
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): -1
+Wins: 18 Losses: 12 Ties: 21
+51
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): -1
+Wins: 18 Losses: 13 Ties: 21
+52
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 1
+Wins: 19 Losses: 13 Ties: 21
+53
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 1
+Wins: 20 Losses: 13 Ties: 21
+54
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 0
+Wins: 20 Losses: 13 Ties: 22
+55
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): -1
+Wins: 20 Losses: 14 Ties: 22
+56
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): -1
+Wins: 20 Losses: 15 Ties: 22
+57
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): 0
+Wins: 20 Losses: 15 Ties: 23
+58
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 1
+Wins: 21 Losses: 15 Ties: 23
+59
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 0
+Wins: 21 Losses: 15 Ties: 24
+60
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 0
+Wins: 21 Losses: 15 Ties: 25
+61
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): -1
+Wins: 21 Losses: 16 Ties: 25
+62
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): -1
+Wins: 21 Losses: 17 Ties: 25
+63
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): -1
+Wins: 21 Losses: 18 Ties: 25
+64
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): 1
+Wins: 22 Losses: 18 Ties: 25
+65
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 0
+Wins: 22 Losses: 18 Ties: 26
+66
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 1
+Wins: 23 Losses: 18 Ties: 26
+67
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): -1
+Wins: 23 Losses: 19 Ties: 26
+68
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 0
+Wins: 23 Losses: 19 Ties: 27
+69
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 0
+Wins: 23 Losses: 19 Ties: 28
+70
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 0
+Wins: 23 Losses: 19 Ties: 29
+71
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 1
+Wins: 24 Losses: 19 Ties: 29
+72
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): 0
+Wins: 24 Losses: 19 Ties: 30
+73
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 0
+Wins: 24 Losses: 19 Ties: 31
+74
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): 1
+Wins: 25 Losses: 19 Ties: 31
+75
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 1
+Wins: 26 Losses: 19 Ties: 31
+76
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 0
+Wins: 26 Losses: 19 Ties: 32
+77
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 1
+Wins: 27 Losses: 19 Ties: 32
+78
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): -1
+Wins: 27 Losses: 20 Ties: 32
+79
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 0
+Wins: 27 Losses: 20 Ties: 33
+80
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 1
+Wins: 28 Losses: 20 Ties: 33
+81
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): -1
+Wins: 28 Losses: 21 Ties: 33
+82
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 0
+Wins: 28 Losses: 21 Ties: 34
+83
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): -1
+Wins: 28 Losses: 22 Ties: 34
+84
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 1
+Wins: 29 Losses: 22 Ties: 34
+85
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 0
+Wins: 29 Losses: 22 Ties: 35
+86
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): -1
+Wins: 29 Losses: 23 Ties: 35
+87
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 0
+Wins: 29 Losses: 23 Ties: 36
+88
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): 0
+Wins: 29 Losses: 23 Ties: 37
+89
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 0
+Wins: 29 Losses: 23 Ties: 38
+90
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): 1
+Wins: 30 Losses: 23 Ties: 38
+91
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): -1
+Wins: 30 Losses: 24 Ties: 38
+92
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 0
+Wins: 30 Losses: 24 Ties: 39
+93
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   scissor
+GAME RESULT (-1 is a loss for you): -1
+Wins: 30 Losses: 25 Ties: 39
+94
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   rock
+GAME RESULT (-1 is a loss for you): 0
+Wins: 30 Losses: 25 Ties: 40
+95
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): -1
+Wins: 30 Losses: 26 Ties: 40
+96
+Please type r,p,s, or q
+s
+User played: scissor
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): 1
+Wins: 31 Losses: 26 Ties: 40
+97
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): -1
+Wins: 31 Losses: 27 Ties: 40
+98
+Please type r,p,s, or q
+p
+User played: paper
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): 0
+Wins: 31 Losses: 27 Ties: 41
+99
+Please type r,p,s, or q
+r
+User played: rock
+Computer played:   paper
+GAME RESULT (-1 is a loss for you): -1
+Wins: 31 Losses: 28 Ties: 41
+​
